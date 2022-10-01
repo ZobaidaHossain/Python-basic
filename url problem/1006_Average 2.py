@@ -1,0 +1,5 @@
+A=float(input())
+B=float(input())
+C=float(input())
+c=((2*A)+(3*B)+(5*C))/(2+3+5)
+print(f'MEDIA = {c:.1f}')

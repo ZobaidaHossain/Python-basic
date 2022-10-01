@@ -1,0 +1,6 @@
+A=int(input())
+B=int(input())
+C=int(input())
+D=int(input())
+e=(A*B-C*D)
+print("DIFFERENCE =",e)
